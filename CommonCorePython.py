@@ -33,4 +33,3 @@ def populateLootTables(filepath, modid):
                     }
             ltable_file = open(filepath+"\\"+filename, "w")
             json.dump(ltable_file, records_json, indent=4)
-            ltable_file.close()
