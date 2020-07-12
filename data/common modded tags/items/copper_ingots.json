@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "appliedenergistics3:copper_ingot",
+	"constructretinkered:ingot_copper",
+	"maby_mod:copper_ingot",
+  ]
+}
